@@ -1,0 +1,5 @@
+numpy==1.21.6
+pydicom==2.3.0
+SimpleITK==2.2.1
+streamlit==1.21.0
+tqdm==4.64.1
